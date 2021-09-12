@@ -32,7 +32,7 @@ npm start
 
 ```
 
-Now open http://localhost:3000 to access swagger ui.
+Now open http://localhost:3000/api-docs to access swagger ui.
 
 
 
